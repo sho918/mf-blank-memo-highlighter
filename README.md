@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Mf Blank Memo-highlighter
+# mf-blank-memo-highlighter
 
 My Chrome Extension
 
